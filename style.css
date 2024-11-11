@@ -1,0 +1,532 @@
+.info-logo{
+    display: flex;
+    height: 30px;
+}
+.info-contents{
+    margin-left: 1170px;
+    display: flex;
+}
+.info-style{
+    margin-left: 8px;
+    font-family: Sans-serif;
+    font-size: 12px;
+}
+.vr{
+    width: 1px;
+    height: 10px;
+    background-color: rgb(11, 11, 11);
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.jumbman-logo{
+    height: 60px;
+    width: 60px;
+    height: 30px;
+    margin-left: 20px;
+}
+.main-header-box{
+    height: 80px;
+    background-color: rgb(240, 248, 248);
+    padding-top: 1px;
+    display: flex;
+}
+
+.head-left-box{
+    margin-left: 20px;
+    height: 80px;
+    display:flex;
+ 
+}
+.head-logo {
+    height: 60px;
+    width: 100px;
+    border-radius:20px;
+    margin-top: 10px;
+}
+
+.other-text{
+    padding-top: 10px;
+}
+.right-box{
+    margin-left: 300px;
+    display: flex;
+    width:600px;
+}
+.right-box-contents{
+    margin-left:20px;
+}
+.right-box-inner-contents{
+    margin-left:100px;
+    display: flex;
+    
+}
+
+.one:hover,.two:hover,.three:hover,.four:hover,.five:hover,.six:hover{
+    color: tomato;
+   
+}
+.search-bar{
+    border-radius: 15px;
+    margin-top: 20px;
+
+}
+.search-style{
+    border-radius: 10px;
+    border: 1px solid grey;
+    height: 25px;
+    margin-left: 200px;
+    
+}
+.likes-size{
+    margin-left: 10px;
+    width: 10px;
+    height: 10px;
+    
+}
+.ratting-items{
+    width: 25px;
+    height:25px;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+.box-size{
+margin-left: 20px;
+}
+.nike-quot{
+    background-color: rgb(227, 232, 237);
+}
+.quote-box{
+    margin-left:500px;
+}
+.quote-box-1{
+    margin-left: 50px;
+}
+.join-link{
+margin-left:180px;
+}
+.marketing-box{
+    margin-left: 40px;
+    height: 910px;
+    width: 1440px;
+    
+}
+.market-img{
+ width: 1440px;
+}
+.slogan-container{
+    margin-top: 20px;
+    
+}
+.slogan-container-1{   
+    font-size: 18px; 
+    text-align: center;
+    font-family: Arial;
+    
+}
+.slogan-container-2{
+    font-weight: 500;
+    font-size: 56px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+.slogan-container-3{
+    font-size: 16px;
+    font-family:  Arial;    text-align: center;
+}
+.shop-button{
+    margin-left: 650px;
+    background-color: black;
+    color: white;
+    width: 80px;
+    height: 40px;
+    border-radius: 23px;
+}
+.latest-contents{
+    margin-left: 40px;
+    font-size: 18px;
+    font-family: Verdana;
+}
+.latest-contents-main-boxs{
+    margin-top: 40px;
+    margin-left: 30px;
+    display: flex;
+    
+}
+.latest-contents-main-boxs-1 {
+    background-image: url('images/pegasis41-women.jpg');
+    background-repeat:no-repeat
+}
+.latest-contents-main-boxs-2 {
+    background-image: url('images/lebron-7.jpeg');
+    background-repeat:no-repeat
+
+}
+.latest-contents-main-boxs-3 {
+    background-image: url('images/kids-pegasis.png');
+    background-repeat:no-repeat
+
+}
+.threeboxess{
+    height: 580px;
+    width: 466px;
+    margin-left: 10px;
+    border-style: solid;
+    border-color: black;
+    color: white;
+}
+.threebox-text-1{
+margin-left: 30px;
+margin-top: 400px;
+
+}
+.threebox-text-2{
+    margin-left: 30px;
+    margin-top: 15px;
+}
+.threebox-text-button{
+    margin-left: 30PX;
+    margin-top: 15px;
+    background-color: white;
+    color: black;
+    height: 40px;
+    width: 80px;
+    border-radius: 25px;
+}
+
+/* classic sport */
+.new-arrivals-text,.spotlight-text{
+     
+    width: 1435px;
+}
+.spotlight-content{
+    font-size: 24px;
+    font-family: sans-serif;
+    
+}
+.newarrival-content,.spotlight-content{
+    padding-top: 15px;
+    height: 50px;
+    
+}
+.new-arrivals-demo-piece{
+    display: flex;
+    margin-left: 40px;
+}
+.new-arrivals-products{
+    width: 522px;
+    height:522px;
+   
+}
+.arrival-product-img{
+    width: 475px;
+    height: 475px;
+    background-color: rgb(237, 240, 242);
+}
+.nikewave-img{
+    margin-top: 180px;
+    margin-left: 15px;
+    width: 430px;
+}
+.jordan-image{
+    width: 475px;
+    height: 475px;
+}
+.nike-drift,.nike-wave,.nike-jordan{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.new-arrival-brandname{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+.new-arrivals-text,.spotlight-text{
+    margin-left: 40px;
+}
+.new-arrival-member{
+    color: brown;
+    font-family: sans-serif;
+}
+.new-arrival-type{
+    color: rgb(148, 148, 149);
+}
+.classic-spotlight{
+    margin-top: 50px;
+    height: 390px;
+}
+
+.spotlight-carosel-content-box{
+    display: flex;
+    width: 2790px;
+  
+}
+.spotlight-boxes{
+    height: 300px;
+    width: 337px;
+    background-color: rgb(236, 232, 232);
+    
+}
+.spotlight-boxes-spacing{
+    margin-left: 10px;
+}
+.sportlight-img1{
+    background-image: url('images/airforce1.jpeg');
+}
+.sportlight-img2{
+    background-image: url('images/jordan1.jpeg');
+}
+.sportlight-img3{
+    background-image: url('images/cortex.jpeg');
+}
+.sportlight-img4{
+    background-image: url('images/killshot.jpeg');
+}
+.sportlight-img5{
+    background-image: url('images/pegasis-41.jpeg');
+}
+.sportlight-img6{
+    background-image: url('');
+}
+.sportlight-img7{
+    background-image: url('');
+}
+.sportlight-img8{
+    background-image: url('');
+}
+.sportlight-img9{
+    background-image: url('');
+}
+/* dont miss styles */
+.dont-miss-box-head{
+    height: 50px;
+    margin-left: 40px;
+}
+.dont-miss-text{
+    font-size: 26px;
+    
+}
+.dont-miss-box-1{
+    background-image: url('images/dontmiss.png');
+    width: 735px;
+    height:600px
+}
+.dont-miss-box-2{
+    width: 735px;
+    height:600px
+}
+.dont-miss-box-add{
+    margin-left: 30px;
+    width: 1470px;
+    height: 600px;
+    display: flex;
+    
+}
+.dont-miss-box-2-advertisement{
+    width: 735px;
+    height:600px
+}
+.add-contents{
+    margin-top: 20px;
+}
+.add-contents-text{
+   text-align: center;
+   font-family:  Helvetica;
+   font-size: 16px;
+}
+.rideeasy{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+}
+.add-button{
+    height: 40px;
+    width: 80px;
+    border-radius: 20px;
+    color: white;
+    background-color: black;
+    margin-left: 730px;
+    margin-top: 20px;
+
+}
+.shop-by-sport-text,.member-benifit-text{
+    margin-left: 30px;
+}
+.sports-carosel-box-1{
+    background-image: url('images/running.jpg');
+}
+.sports-carosel-box-2{
+    background-image: url('images/footbal.jpg');
+}
+.sports-carosel-box-3{
+    background-image: url('images/basketball.jpg');
+}
+.shop-by-sport-carosel{
+    margin-top: 20px;
+    width: 3900px;
+    height: 402px;
+    display: flex;
+    margin-left: 20px;
+}
+
+.sports-carosel-box{
+    height: 321px;
+    width: 472px;
+    background-color: rgb(240, 238, 241);
+    margin-left:10px;
+}
+.sport-items-button{
+    background-color: white;
+    height: 40px;
+    width: 150px;
+    color: black;
+    border-radius: 20px;
+    margin-top: 220px;
+    margin-left: 50px;
+    border-color: white;
+}
+/* Member benifits contents */
+.benifit-box-img1{
+    background-image: url('images/exclusive-img.jpeg');
+
+}
+.benifit-box-img2{
+    background-image: url('images/consumer-img.jpeg');
+    height: 590px;
+
+}
+.benifit-box-img3{
+    background-image: url('images/how-we-thank.jpeg');
+   
+
+}
+.member-benifit-text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+}
+.members-contents-box{
+    display: flex;
+    width: 2762px;
+    margin-left: 34px;
+}
+
+.benifit-boxes{
+    width: 465px;
+    height: 590px;
+   
+    margin-left: 10px;
+    background-color: grey;
+   
+}
+.benifit-boxes-contents{
+    margin-top:425px;
+    color: white;
+    
+    margin-left: 45px;
+   
+}
+.members-shop-button-1{
+    height: 36px;
+    border-radius: 22px;
+    width:71px;
+    font-size: 16px;
+    font-family:  Tahoma;
+   
+}
+.members-shop-button-2{
+    height: 36px;
+    border-radius: 22px;
+    width: 111px;
+    font-size: 16px;
+    font-family:Arial;
+}
+.members-shop-button-3{
+    height: 36px;
+    border-radius: 22px;
+    width: 111px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.final-list-items{
+    margin-left:280px;
+}
+.final-list-items{
+    display: flex;
+}
+.icons-items{
+    list-style-type: none;
+
+}
+.items{
+    margin-top: 20px;
+    color: rgb(109, 112, 115);
+    font-size: 16px;
+    font-family:Helvetica Now Text Medium,Helvetica,Arial,sans-serif;
+    font-weight: 500;
+}
+.final-list-1-space{
+    margin-left: 100px;
+}
+.icons-items-head{
+    font-family: sans-serif;
+    font-size:18px;
+}
+.footer-main-box{
+    margin-top: 50px;
+}
+.footer-box{
+    display: flex;
+}
+.footer-content-style{
+    font-family:Helvetica Now Text Medium,Helvetica,Arial,sans-serif;
+    color: rgb(109, 112, 115);
+    font-weight: 600;
+    font-size: 16px;
+}
+h5{
+    color: black;
+}
+.footer-content-1{
+    margin-left: 50px;
+    width:345px;
+    height:143px;
+}
+.footer-content-2{
+    
+    width:385px;
+    height:275px;
+}
+.footer-content-3{
+    width:315px;
+    height: 209px;
+}
+.home-button{
+    background: transparent;
+    text-align: start;
+    border: 0;
+    font-size: 16px;
+    margin-top: 20px;
+    margin-left: 400px;
+    font-family: Sans-serif;
+    
+}
+hr{
+    width: 1400px;
+    color: rgb(226, 239, 251);
+}
+
+.home-icon{
+    width: 18px;
+    height: 18px;
+}
+.footer-spacing{
+    height: 80px;
+}
+.final-footer-box{
+    height: 30;
+    display: flex;
+    margin-top: 15px;
+}
+.final-footer{
+    margin-left: 30px;
+}
+.footer-spacing-final{
+    height: 100px;
+}
